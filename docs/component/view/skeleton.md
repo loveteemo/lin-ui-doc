@@ -28,6 +28,7 @@ title: 骨架屏 Skeleton
   loading="{{true}}"
   rows="3"
 >
+  <view>
   <!-- 插槽内容 -->
   <view/>
 </l-skeleton>
@@ -71,6 +72,7 @@ title: 骨架屏 Skeleton
   rows-width="{{['240rpx','240rpx','120rpx']}}"
   rows-height="100rpx"
 >
+  <view>
   <!-- 插槽内容 -->
   <view/>
 </l-skeleton>
@@ -94,6 +96,7 @@ title: 骨架屏 Skeleton
   avatar-shape="circle"
   rows="3"
 >
+  <view>
   <!-- 插槽内容 -->
   <view/>
 </l-skeleton>
@@ -116,6 +119,7 @@ title: 骨架屏 Skeleton
   rows="3"
   active="{{false}}"
 >
+  <view>
   <!-- 插槽内容 -->
   <view/>
 </l-skeleton>
